@@ -1,0 +1,6 @@
+{
+  "name": "Crystal Oracle",
+  "description": "Mystical crystal ball divination app for yes/no questions and personalized choices with customizable skins, animations, and fortune-telling styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
